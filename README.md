@@ -1,2 +1,2 @@
-# Snake-and-Ladder-
+# Snakes-and-Ladders-
 A game
